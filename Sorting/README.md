@@ -8,14 +8,16 @@ Time Complexity
 --------------------------------------
 | | |
 |-|-|
-|Best Case:| O(n) |
-|Average Case:| O(n²) |
-|worst Case:| O(n²) |
+|Best Case| O(n) |
+|Average Case| O(n²) |
+|worst Case| O(n²) |
 
 🔹 Key Characteristics of Bubble Sort
 ---------------------------------------
-✔ Very simple
-✔ Stable
-✔ In-place
-❌ Very slow for large datasets
-❌ Mostly used for learning
+| |
+|-|
+|✔ Very simple|
+|✔ Stable|
+|✔ In-place|
+|❌ Very slow for large datasets|
+|❌ Mostly used for learning|
