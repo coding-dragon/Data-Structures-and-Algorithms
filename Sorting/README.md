@@ -6,9 +6,10 @@ Bubble Sort is one of the simplest sorting algorithms. This is a comparison-base
 
 Time Complexity
 --------------------------------------
-Best Case: O(n)
-Average Case: O(n²)
-worst Case: O(n²)
+|-|-|
+|Best Case:| O(n) |
+|Average Case:| O(n²) |
+|worst Case:| O(n²) |
 
 🔹 Key Characteristics of Bubble Sort
 ---------------------------------------
